@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    border: 3px solid white;
+    height: 66px;
+    background: aquamarine;
+    color: black;
+}
+.content{
+background-color: red;
+height: 90vh;
+padding: 33px;
+margin: 33px;
+}
+footer{
+    background-color: purple;   
+    margin: 23px;
+}
+.anish{
+    text-align: center;
+}
